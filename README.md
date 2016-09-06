@@ -16,6 +16,14 @@ sh ./setup.sh
 
 ````
 
+* Generate the Stub from .Proto file in the Proto directory and copy it to the Server and Client directories
+
+```
+sh ./Gen_Stub.sh
+
+````
+
+
 * Run the Calculator service available in the Server directory
 
 ```
