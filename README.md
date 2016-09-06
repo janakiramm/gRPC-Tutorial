@@ -1,4 +1,6 @@
-# gRPC-Tutorial
+# gRPC Tutorial
+
+For a detailed walkthrough, please read the tutorial at [The New Stack](http://thenewstack.io)
 
 * Clone this repo and run the following command to setup and configure gRPC
 
