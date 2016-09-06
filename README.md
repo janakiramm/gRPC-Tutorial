@@ -28,7 +28,7 @@ python Calc_Client.py
 
 ````
 
-* Run the Python Calculator client available in the Client/Node directory
+* Run the Node.js Calculator client available in the Client/Node directory
 
 ```
 node Calc_Client.js
